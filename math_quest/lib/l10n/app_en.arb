@@ -1,0 +1,1095 @@
+{
+  "@@locale": "en",
+  "appTitle": "MathQuest",
+  "tapToStart": "Tap to Start Adventure!",
+  "playingAs": "Playing as: {name} ({grade})",
+  "@playingAs": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "grade": {
+        "type": "String"
+      }
+    }
+  },
+  "dayStreak": "{count} Day Streak!",
+  "@dayStreak": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "todaysMission": "TODAY'S MISSION",
+  "solveAddition": "Solve 10 Addition Puzzles",
+  "continueMission": "Continue Mission",
+  "gameModes": "Game Modes",
+  "allUnlocked": "All Unlocked",
+  "quickPlay": "Quick Play",
+  "practiceArena": "Practice Arena",
+  "adventureIsland": "Adventure Island",
+  "buddyChallenge": "Buddy Challenge",
+  "practiceLab": "PRACTICE LAB",
+  "customMission": "Custom Math Mission",
+  "chooseOperation": "Choose Operation",
+  "chooseDifficulty": "Difficulty (Number of Digits)",
+  "chooseTimer": "Choose Timer / Pace",
+  "funHelpers": "Fun Helpers",
+  "visualCountingAids": "Visual Counting Aids",
+  "soundEffectsCheering": "Sound Effects & Cheering",
+  "launchMission": "Launch Math Mission! (10 Questions)",
+  "pickYourAnswer": "Pick your answer:",
+  "skip": "Skip",
+  "checkAnswer": "Check Answer!",
+  "correctTitle": "Awesome Job! 🌟",
+  "wrongTitle": "Not quite right!",
+  "continueBtn": "Continue",
+  "questComplete": "Quest Complete!",
+  "roundStats": "Round Stats",
+  "correctAnswers": "Correct Answers",
+  "averageSpeed": "Average Speed",
+  "playAnotherRound": "Play Another Round",
+  "reviewMistakes": "Review Mistakes",
+  "backToHome": "Back to Home",
+  "trophyRoomTitle": "Trophy Room & Stats",
+  "weeklyPractice": "Weekly Practice",
+  "mathMasteryTracks": "Math Mastery Tracks",
+  "recentBadges": "Recent Badges",
+  "settingsTitle": "Settings",
+  "language": "App Language",
+  "parentGateTitle": "Grown-Ups Zone",
+  "parentGatePrompt": "Please ask a grown-up to solve: What is {num1} × {num2}?",
+  "@parentGatePrompt": {
+    "placeholders": {
+      "num1": {
+        "type": "int"
+      },
+      "num2": {
+        "type": "int"
+      }
+    }
+  },
+  "navPlay": "Play",
+  "navPractice": "Practice",
+  "navQuest": "Quest",
+  "navTrophies": "Trophies",
+  "settingsLabel": "APP SETTINGS",
+  "personalizeQuest": "Personalize Quest!",
+  "settingsDescription": "Adjust sounds, switch profiles & manage parent rules.",
+  "soundsAndWorld": "Sounds & Adventure World",
+  "soundEffects": "Sound Effects (SFX)",
+  "gameMelodies": "Game Melodies",
+  "voiceReadAloud": "Voice Read-Aloud",
+  "voiceReadAloudDescription": "Reads word problems out loud automatically",
+  "hapticTouch": "Haptic Touch Buzz",
+  "hapticTouchDescription": "Feel answer taps and correct or incorrect feedback",
+  "selectLanguage": "🌐 Select Language",
+  "responseMode": "Response Mode",
+  "responseModeDescription": "Choose how answers are entered throughout the app.",
+  "responseChoice": "Choice",
+  "responseWrite": "Write",
+  "responseChoiceDescription": "Pick from four answers",
+  "responseWriteDescription": "Type the answer",
+  "responseModeSemantics": "{mode} response mode",
+  "@responseModeSemantics": {
+    "placeholders": {
+      "mode": {
+        "type": "String"
+      }
+    }
+  },
+  "gameVisualTheme": "Game Visual Theme",
+  "themeGalaxy": "Galaxy Quest",
+  "themeGalaxyDescription": "Deep space",
+  "themeCandy": "Candy Land",
+  "themeCandyDescription": "Sweet hills",
+  "themeDino": "Dino Math",
+  "themeDinoDescription": "Prehistoric",
+  "themeUnderwater": "Underwater",
+  "themeUnderwaterDescription": "Coral reef",
+  "whosPlaying": "Who's Playing?",
+  "profileSlotsUsed": "{count} of 3 slots used",
+  "@profileSlotsUsed": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "profilesUnavailable": "Profiles unavailable",
+  "addChildProfile": "Add New Child Profile",
+  "allProfileSlotsUsed": "All 3 profile slots in use",
+  "profileLevel": "Lvl {level}",
+  "@profileLevel": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "profileActive": "Active",
+  "switchProfile": "Switch",
+  "safeKidsEdition": "MathQuest v{version} (Safe Kids Edition)",
+  "@safeKidsEdition": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "localProgressBackup": "All game progress backed up safely in local storage.",
+  "parentZone": "Parent Gate Zone",
+  "parentZoneDescription": "Adults Only: Curriculums, timers & reports",
+  "dailyScreenLimit": "Daily Screen Limit ({name})",
+  "@dailyScreenLimit": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "unlimited": "Unlimited",
+  "minutesShort": "{minutes} min",
+  "@minutesShort": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "targetMathStandard": "Target Math Standard",
+  "gradePreK": "Pre-K",
+  "gradeOne": "Grade 1",
+  "gradeTwo": "Grade 2",
+  "gradeThreePlus": "Grade 3+",
+  "resetCurrentHero": "Reset Adventure Progress for Current Hero",
+  "resetProgressTitle": "Reset All Progress?",
+  "resetProgressDescription": "This will lock all completed stages and worlds, resetting Adventure Island back to Stage 1. Are you sure?",
+  "cancel": "Cancel",
+  "resetNow": "Reset Now",
+  "hero": "Hero",
+  "profileSwitched": "Profile switched! 🚀",
+  "switchedToProfile": "Switched to {name}! 🚀",
+  "@switchedToProfile": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "screenLimitUpdated": "Screen limit updated to {limit}!",
+  "@screenLimitUpdated": {
+    "placeholders": {
+      "limit": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesLong": "{minutes, plural, one{1 minute} other{{minutes} minutes}}",
+  "@minutesLong": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "targetStandardUpdated": "Target Math Standard set to {standard}!",
+  "@targetStandardUpdated": {
+    "placeholders": {
+      "standard": {
+        "type": "String"
+      }
+    }
+  },
+  "adventureProgressReset": "✅ Adventure Island has been reset to Stage 1!",
+  "settingsUpdateFailed": "Could not update settings. Please try again.",
+  "explorerName": "Explorer {name}",
+  "@explorerName": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "readyForQuest": "Ready for your quest?",
+  "starryWaiting": "Starry is waiting at the Cosmic Summit!",
+  "streakLabel": "STREAK",
+  "starsLabel": "STARS",
+  "rankLabel": "RANK",
+  "daysShort": "{count}d",
+  "@daysShort": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysCount": "{count, plural, one{1 Day} other{{count} Days}}",
+  "@daysCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "quickPlayDuration": "2 Min",
+  "customModeBadge": "Custom",
+  "storyModeBadge": "Story",
+  "twoPlayersBadge": "2 Players",
+  "quickPlayDescription": "Beat the ticking clock with snappy math!",
+  "practiceDescription": "Choose operations, digits & pace.",
+  "adventureDescription": "Defeat math monsters & find treasure.",
+  "buddyDescription": "Pass & play duel with friends or family.",
+  "playNowAction": "Play Now →",
+  "configureAction": "Configure →",
+  "exploreAction": "Explore →",
+  "battleAction": "Battle →",
+  "missionProgress": "{current} of {total} completed",
+  "@missionProgress": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyMissionReward": "Reward: {coins} Star Coins & {badge}",
+  "@dailyMissionReward": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      },
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "missionCompletedToday": "Mission Completed for Today! 🎉",
+  "claimMissionReward": "Claim {coins} Coins & Badge! 🎁",
+  "@claimMissionReward": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "missionRewardAdded": "🎁 +{coins} Star Coins and {badge} added!",
+  "@missionRewardAdded": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      },
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "superpowerTipHeading": "SUPERPOWER SECRET • Today's Tip",
+  "tryNextChallenge": "Try it in your next challenge! →",
+  "missionLabDescription": "Pick your math superpower and challenge rules!",
+  "practiceMode": "🎮 Practice Mode",
+  "examChallenge": "📝 Exam Challenge",
+  "selectOperation": "Select operation",
+  "operationAddition": "Addition",
+  "operationSubtraction": "Subtraction",
+  "operationMultiplication": "Multiplication",
+  "operationDivision": "Division",
+  "appleCounters": "Apple counters",
+  "balloonPops": "Balloon pops",
+  "boosters": "Boosters",
+  "pizzaSlices": "Pizza slices",
+  "difficultyEasy": "Easy",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+  "easyDigits": "1 Digit (3 + 5)",
+  "mediumDigits": "2 Digits (24 + 38)",
+  "hardDigits": "3 Digits (145 + 289)",
+  "easyDescription": "Gentle warm-up for beginners",
+  "mediumDescription": "Elementary challenge & brain workout",
+  "hardDescription": "Math superhero level!",
+  "noTimer": "No Timer",
+  "relaxAndLearn": "Relax & Learn",
+  "secondsCount": "{count, plural, one{1 Second} other{{count} Seconds}}",
+  "@secondsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "twoMinutes": "2 Minutes",
+  "rapidDash": "Rapid Dash",
+  "standardPace": "Standard Pace",
+  "deepFocus": "Deep Focus",
+  "visualAidsDescription": "Show interactive blocks & dot grid",
+  "soundCheeringDescription": "Bubbly pops & joyful mascot chimes",
+  "numberOfQuestions": "Number of Questions",
+  "questionCount": "{count, plural, one{1 Question} other{{count} Questions}}",
+  "@questionCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "completionReward": "Reward Upon Completion: +50 Stars & 1 Quest Key",
+  "missionRewardXp": "100 XP",
+  "launchMissionCount": "Launch Mission! ({count, plural, one{1 Question} other{{count} Questions}})",
+  "@launchMissionCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "startExamCount": "Start Exam ({count, plural, one{1 Question} other{{count} Questions}})",
+  "@startExamCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyAdditionTitle": "Solve {count} Addition Puzzles",
+  "@dailyAdditionTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dailySubtractionTitle": "Solve {count} Subtraction Puzzles",
+  "@dailySubtractionTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyMultiplicationTitle": "Solve {count} Multiplication Puzzles",
+  "@dailyMultiplicationTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyDivisionTitle": "Solve {count} Division Puzzles",
+  "@dailyDivisionTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceDetectiveBadge": "Space Detective Badge",
+  "balloonPopperBadge": "Balloon Popper Badge",
+  "lightningBoosterBadge": "Lightning Booster Badge",
+  "pizzaMasterBadge": "Pizza Master Badge",
+  "tipDoublesTitle": "The \"Doubles + 1\" Trick!",
+  "tipDoublesDescription": "If you know 6 + 6 = 12, then 6 + 7 is super easy: just add 1 more to reach 13!",
+  "tipMakeTenTitle": "The \"Make a 10\" Secret!",
+  "tipMakeTenDescription": "8 + 5 looks hard? Take 2 from the 5 to turn 8 into 10! Then 10 + 3 = 13!",
+  "tipSubtractTenTitle": "The \"Drop to 10\" Trick!",
+  "tipSubtractTenDescription": "Solving 15 - 7? First drop 5 to hit 10, then drop the remaining 2 to get 8!",
+  "tipTimesFiveTitle": "The \"Multiply by 5\" Hack!",
+  "tipTimesFiveDescription": "6 × 5? Just add a zero to get 60, then take half of that: 30! Works every time!",
+  "tipNinesTitle": "The Magic of 9s!",
+  "tipNinesDescription": "The digits of 9 times table always add up to 9! 9 × 3 = 27 (2+7=9). 9 × 4 = 36 (3+6=9)!",
+  "tipHalvingTitle": "Divide by 4 by Halving Twice!",
+  "tipHalvingDescription": "To divide by 4, just cut the number in half, and then in half again! 28 → 14 → 7!",
+  "tipZeroTitle": "The \"Zero Hero\" Rule!",
+  "tipZeroDescription": "Any number plus zero stays itself, but any number times zero always vanishes to 0!",
+  "tapCorrectAnswer": "Tap the correct answer:",
+  "writeCorrectAnswer": "Write the correct answer:",
+  "matchSetup": "Match Setup",
+  "questionReview": "Question Review",
+  "nextStage": "Next Stage 🚀",
+  "playAnotherRoundAction": "Play Another Round 🔄",
+  "reviewMistakesCount": "Review {count, plural, one{1 Mistake} other{{count} Mistakes}} 🎯",
+  "@reviewMistakesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backAdventureMap": "Back to Adventure Map 🏝️",
+  "backHomeAction": "Back to Home 🏠",
+  "targetBoss": "Target Boss: {name}",
+  "@targetBoss": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "worldTitle": "World {index}: {name}",
+  "@worldTitle": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "switchIsland": "Switch Island",
+  "countingHelpers": "Counting Helpers",
+  "tensAndOnes": "Tens & Ones",
+  "numberDecomposition": "{value} ({tens} Tens, {ones} Ones)",
+  "@numberDecomposition": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      },
+      "tens": {
+        "type": "int"
+      },
+      "ones": {
+        "type": "int"
+      }
+    }
+  },
+  "startBuddyChallenge": "Start Buddy Challenge! (First to {points} Points)",
+  "@startBuddyChallenge": {
+    "placeholders": {
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "buddyRulesDescription": "Choose your players and challenge rules!",
+  "buddyArena": "BUDDY ARENA",
+  "playerOne": "Player 1",
+  "playerTwo": "Player 2",
+  "playerNames": "Player Names",
+  "pointsToWin": "Points to Win",
+  "pointsCount": "{count, plural, one{1 Point} other{{count} Points}}",
+  "@pointsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "pointsTargetDescription": "First player to reach the target wins",
+  "buddyScore": "P1: {score1}  vs  P2: {score2}",
+  "@buddyScore": {
+    "placeholders": {
+      "score1": {
+        "type": "int"
+      },
+      "score2": {
+        "type": "int"
+      }
+    }
+  },
+  "firstToPoints": "First to {points} points",
+  "@firstToPoints": {
+    "placeholders": {
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "winnerName": "{name} Wins!",
+  "@winnerName": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "outstandingReflexes": "Outstanding math reflexes!",
+  "playAgain": "Play Again",
+  "changeSettings": "Change Settings",
+  "exit": "Exit",
+  "champion": "CHAMPION",
+  "finalScoreSemantics": "Final score: Player 1, {score1}; Player 2, {score2}",
+  "@finalScoreSemantics": {
+    "placeholders": {
+      "score1": {
+        "type": "int"
+      },
+      "score2": {
+        "type": "int"
+      }
+    }
+  },
+  "finalScore": "FINAL SCORE",
+  "correctAnswerExplanation": "The correct answer is {answer}. Keep going, explorer!",
+  "@correctAnswerExplanation": {
+    "placeholders": {
+      "answer": {
+        "type": "String"
+      }
+    }
+  },
+  "sparkyAdvice": "Sparky says: Take your time and think it through!",
+  "worldBossDefeated": "WORLD BOSS DEFEATED!",
+  "welcomeToWorld": "Welcome to {name}!",
+  "@welcomeToWorld": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "newIslandDescription": "A new island has appeared on your map with new math challenges and a legendary Boss!",
+  "exploreNewIsland": "Explore New Island! 🚀",
+  "starCoinsReward": "+{count} Star Coins",
+  "@starCoinsReward": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "mathXpReward": "+{count} Math XP",
+  "@mathXpReward": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "accuracyPercent": "{percent}% Accuracy",
+  "@accuracyPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "averageSecondsItem": "{seconds}s / item",
+  "@averageSecondsItem": {
+    "placeholders": {
+      "seconds": {
+        "type": "double",
+        "format": "decimalPatternDigits",
+        "optionalParameters": {
+          "decimalDigits": 1
+        }
+      }
+    }
+  },
+  "elapsedSeconds": "{seconds}s",
+  "@elapsedSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "double",
+        "format": "decimalPatternDigits",
+        "optionalParameters": {
+          "decimalDigits": 1
+        }
+      }
+    }
+  },
+  "stellaCoach": "STAR COACH STELLA",
+  "stellaExcellent": "\"Outstanding, {name}! You totally rocked this mission!\"",
+  "stellaEncouragement": "\"Great effort, math explorer! Every mistake helps your brain grow!\"",
+  "tryAgainTitle": "Try Again!",
+  "mistakeCorrected": "🎉 Awesome! You corrected your mistake!",
+  "useCountingBlocks": "Not quite! Use the blocks to count.",
+  "close": "Close",
+  "chosenAnswer": "You chose: {answer}",
+  "@chosenAnswer": {
+    "placeholders": {
+      "answer": {
+        "type": "String"
+      }
+    }
+  },
+  "noAnswer": "None",
+  "retry": "Retry",
+  "countingHint": "Hint: Take your time and use the tens and ones blocks!",
+  "correctedSuccessfully": "🌟 Corrected successfully!",
+  "starsEarned": "{count} OF 3 STARS EARNED",
+  "@starsEarned": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "newBadgeUnlocked": "NEW BADGE UNLOCKED!",
+  "correctAnswerSemantics": "Correct answer",
+  "incorrectAnswerSemantics": "Incorrect answer",
+  "writtenAnswerSemantics": "Written answer",
+  "retryAnswerSemantics": "Try checking the answer again",
+  "tryAgain": "Try Again",
+  "checkWrittenAnswer": "Check Answer",
+  "tryAgainTooltip": "Try again",
+  "checkAnswerTooltip": "Check answer",
+  "deleteDigit": "Delete digit",
+  "checkingAnswer": "Checking answer",
+  "checkingStatus": "Checking…",
+  "examStageLabel": "EXAM CHALLENGE ({current}/{total})",
+  "@examStageLabel": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "operationAdventure": "{operation} ADVENTURE",
+  "@operationAdventure": {
+    "placeholders": {
+      "operation": {
+        "type": "String"
+      }
+    }
+  },
+  "adventureNamePart": "{key, select, p0{Emerald} p1{Sunny} p2{Whispering} p3{Verdant} p4{Golden} p5{Atoll} p6{Island} p7{Shores} p8{Meadow} p9{Haven} p10{Sugarplum} p11{Cotton Candy} p12{Lollipop} p13{Caramel} p14{Sweet} p15{Canyon} p16{Isle} p17{Reef} p18{Lagoon} p19{Kingdom} p20{Prehistoric} p21{Thunder} p22{Jurassic} p23{Amber} p24{Ancient} p25{Jungle} p26{Crag} p27{Wilds} p28{Sanctuary} p29{Astral} p30{Starfall} p31{Starlight} p32{Galactic} p33{Cosmic} p34{Summit} p35{Archipelago} p36{Peaks} p37{Nebula} p38{Spire} p39{Sunken} p40{Azure} p41{Tidal} p42{Sapphire} p43{Aquamarine} p44{Cove} p45{Cay} p46{Abyss} p47{Deep} other{{fallback}}}",
+  "@adventureNamePart": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      },
+      "fallback": {
+        "type": "String"
+      }
+    }
+  },
+  "adventureLandmark": "{key, select, s0{Pebble Beach} s1{Bamboo Grove} s2{Clover Valley} s3{Waterfall Ridge} s4{Golem’s Fortress} s5{Gummy Shore} s6{Marshmallow Trail} s7{Chocolate River} s8{Lollipop Peak} s9{Dragon’s Candy Keep} s10{Fossil Beach} s11{Fern Canopy} s12{Raptor Ravine} s13{Volcano Foothills} s14{T-Rex Throne Room} s15{Stardust Basin} s16{Meteor Bridge} s17{Aurora Ridge} s18{Gravity Well} s19{Titan’s Observatory} s20{Clownfish Cove} s21{Shell Cavern} s22{Sunken Galleon} s23{Pearl Trench} s24{Kraken’s Sunken Lair} s25{Stone Golem} s26{Sugar Dragon} s27{T-Rex Math King} s28{Star Titan} s29{Kraken Lord} other{{fallback}}}",
+  "@adventureLandmark": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      },
+      "fallback": {
+        "type": "String"
+      }
+    }
+  },
+  "gameBadgeTitle": "{key, select, speed_counter{Speed Counter} lightning_math{Lightning Math} quick_thinker{Quick Thinker} clean_slate{Zero Mistake Hero} sharp_shooter{Sharp Shooter} flawless_focus{Flawless Focus} early_starter{Habit Starter} week_warrior{Week Warrior} fortnight_legend{Fortnight Titan} half_century{First Fifty} century_club{Century Club} grand_master_500{Math Marathoner} millennium_scholar{Millennium Scholar} addition_superhero{Sum Hero} minus_ninja{Minus Ninja} times_master{Times Master} division_champ{Fair Share Champ} boss_slayer{Island Conqueror} space_detective{Space Detective} quad_master{Grand Polymath} other{{fallback}}}",
+  "@gameBadgeTitle": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      },
+      "fallback": {
+        "type": "String"
+      }
+    }
+  },
+  "gameBadgeDescription": "{key, select, speed_counter{Answer 5 questions under 5 seconds each in one round.} lightning_math{Answer 10 correct questions in under 30 seconds total.} quick_thinker{Solve your first problem in under 3 seconds.} clean_slate{Score 100% accuracy on a round with at least 10 questions.} sharp_shooter{Score 5 correct answers in a row with zero mistakes.} flawless_focus{Complete a 15+ question round with 90%+ accuracy.} early_starter{Maintain a 3-day active learning streak.} week_warrior{Maintain an unstoppable 7-day learning streak.} fortnight_legend{Reach a legendary 14-day practice streak.} half_century{Solve 50 math problems total across all operations.} century_club{Solve 100 math problems total across all operations.} grand_master_500{Reach 500 lifetime questions answered.} millennium_scholar{Solve an astonishing 1,000 total questions!} addition_superhero{Solve 100 addition problems with 90%+ accuracy.} minus_ninja{Solve 100 subtraction problems with 85%+ accuracy.} times_master{Reach Level 4 in Multiplication Mastery Track.} division_champ{Solve 75 division challenges without remainders.} boss_slayer{Defeat a World Boss in Adventure Island.} space_detective{Complete Today’s Daily Mission.} quad_master{Reach at least Level 3 across all 4 math operations.} other{{fallback}}}",
+  "@gameBadgeDescription": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      },
+      "fallback": {
+        "type": "String"
+      }
+    }
+  },
+  "adventureIslandName": "{prefix} {suffix}",
+  "@adventureIslandName": {
+    "placeholders": {
+      "prefix": {
+        "type": "String"
+      },
+      "suffix": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeAppName": "Math Quest",
+  "welcomeTagline": "Learn, Play & Count!",
+  "profileSwitchFailed": "Could not switch profiles. Please try again.",
+  "addChildProfileTitle": "Add Child Profile",
+  "createHero": "Create Your Hero!",
+  "createHeroDescription": "Pick your avatar and tell us your name to start.",
+  "chooseAvatar": "Choose Your Avatar",
+  "explorerNamePrompt": "What's your name, explorer?",
+  "enterName": "Enter name",
+  "selectGrade": "Select Your Grade",
+  "creatingProfile": "Creating Profile…",
+  "startMyAdventure": "Start My Adventure! 🚀",
+  "profileCreated": "🎉 Welcome {name}! Profile created and active.",
+  "@profileCreated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "profileCreationFailed": "Unable to create profile. Please try again.",
+  "profileSwitcherDescription": "Select your profile to continue your adventure!",
+  "chargingBoosters": "Charging math boosters...",
+  "warmingSuperpowers": "Warming up superpowers...",
+  "readyForAdventure": "Ready for Adventure! 🚀",
+  "welcomeGreeting": "Hi {name}!",
+  "@welcomeGreeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "starMath": "STAR MATH",
+  "onboardingWelcomeTitle": "Welcome to MathQuest!",
+  "onboardingWelcomeDescription": "Turn arithmetic into a thrilling cosmic adventure where learning feels like play.",
+  "onboardingBlocksTitle": "Visual Counting Blocks",
+  "onboardingBlocksDescription": "See numbers come to life with Base-10 blocks! Counting tens and ones makes carrying easy.",
+  "onboardingAdventureTitle": "Defeat Bosses & Win Trophies",
+  "onboardingAdventureDescription": "Climb Adventure Island, unlock new worlds, collect badges, and battle in 2-Player Duels!",
+  "getStarted": "Get Started 🚀",
+  "next": "Next",
+  "gradeKindergarten": "Kindergarten",
+  "gradeAgeRange": "Age {min}-{max}",
+  "@gradeAgeRange": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "avatarOption": "Avatar {avatar}",
+  "@avatarOption": {
+    "placeholders": {
+      "avatar": {
+        "type": "String"
+      }
+    }
+  },
+  "onboardingPage": "Page {current} of {total}",
+  "@onboardingPage": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "switchProfileAction": "Switch profile",
+  "allBadgesTitle": "All Badges & Trophies",
+  "badgeUnlockedCaps": "✅ UNLOCKED",
+  "badgeLockedCaps": "🔒 LOCKED",
+  "badgeUnlocked": "✅ Unlocked",
+  "badgeLocked": "🔒 Locked",
+  "gotIt": "Got it!",
+  "awesome": "Awesome!",
+  "viewAllCount": "View All ({count})",
+  "@viewAllCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "operationsCount": "{count, plural, one{1 Operation} other{{count} Operations}}",
+  "@operationsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "parentDiagnosticTitle": "Parent Diagnostic Report",
+  "superMathematician": "SUPER MATHEMATICIAN!",
+  "keepShining": "Keep shining! You're crushing your daily goals.",
+  "totalSolvedLabel": "TOTAL SOLVED",
+  "accuracyLabel": "ACCURACY",
+  "unstoppable": "Unstoppable! 🔥",
+  "trophiesLabel": "TROPHIES",
+  "badgesRemaining": "{count} left to unlock",
+  "@badgesRemaining": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dailyProblemGoal": "Daily Goal: {count} problems",
+  "@dailyProblemGoal": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "weeklyGoalMet": "🎯 Goal Met!",
+  "weeklyKeepGoing": "Keep practicing!",
+  "noWeeklyData": "No practice yet",
+  "noCategoryBadges": "No badges in this category yet.",
+  "noMasteryData": "Start practicing to see your mastery progress.",
+  "shortAccuracy": "{percent}% Acc",
+  "@shortAccuracy": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "masteryRank": "{icon} {title} (Level {level})",
+  "@masteryRank": {
+    "placeholders": {
+      "icon": {
+        "type": "String"
+      },
+      "title": {
+        "type": "String"
+      },
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "masteryProgress": "{solved} solved • {remaining} to Level {level}",
+  "@masteryProgress": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "remaining": {
+        "type": "int"
+      },
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "masteryMaxProgress": "{solved} solved • Max Level! 👑",
+  "@masteryMaxProgress": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      }
+    }
+  },
+  "curriculumBreakdown": "Curriculum Operations Breakdown",
+  "activeStudent": "Active Student",
+  "gradeAligned": "{grade} • Common Core Aligned",
+  "@gradeAligned": {
+    "placeholders": {
+      "grade": {
+        "type": "String"
+      }
+    }
+  },
+  "reportDate": "Report Date: {date}",
+  "@reportDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "readinessIndex": "GRADE READINESS INDEX",
+  "noOperationData": "No operation data yet.",
+  "stellaObservations": "Teacher & Coach Stella Observations",
+  "identifiedStrength": "Identified Strength:",
+  "recommendedFocus": "Recommended Focus:",
+  "baselineGathering": "Baseline Gathering",
+  "masteryPercent": "{percent}% Mastery",
+  "@masteryPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "readinessStrong": "{name} demonstrates strong foundational number sense and is on track for advanced standards.",
+  "@readinessStrong": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "readinessStarting": "{name} has begun building foundational skills. Consistent daily 10-minute sessions are recommended.",
+  "@readinessStarting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "noRoundsCompleted": "No rounds completed",
+  "questionsAnswered": "{count} questions answered",
+  "@questionsAnswered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "diagnosticPending": "Pending Assessment",
+  "diagnosticNeedsPractice": "Needs Practice 🎯",
+  "diagnosticOnTrack": "On Track ⚡",
+  "diagnosticMastered": "Mastered ✅",
+  "closeParentVerification": "Close parent verification",
+  "adultVerificationCaps": "ADULT VERIFICATION",
+  "adultVerification": "Adult verification",
+  "parentControlsProtected": "This check helps keep grown-up controls protected.",
+  "parentAnswerSemantics": "Parent verification answer",
+  "answer": "Answer",
+  "gateAnswerRequired": "Enter an answer to continue.",
+  "gateNumbersOnly": "Use numbers only.",
+  "gateAnswerIncorrect": "Not quite. Please try again.",
+  "parentVerificationPrompt": "What is {first} × {second}?",
+  "@parentVerificationPrompt": {
+    "placeholders": {
+      "first": {
+        "type": "String"
+      },
+      "second": {
+        "type": "String"
+      }
+    }
+  },
+  "timeForRest": "Time for a Rest!",
+  "restDescription": "Great job on your math adventure today! Starry is taking a nap. Ask a grown-up if you want to play more.",
+  "parentUnlock": "Parent Unlock 🛡️",
+  "gateSettingsTitle": "Parent Settings",
+  "gateSettingsDescription": "Confirm you’re a grown-up before opening protected settings.",
+  "unlockSettings": "Unlock Settings",
+  "gateScreenLimitTitle": "Change Screen Limit",
+  "gateScreenLimitDescription": "Confirm you’re a grown-up before changing daily play time.",
+  "gateLearningTitle": "Change Learning Goal",
+  "gateLearningDescription": "Confirm you’re a grown-up before changing the target math standard.",
+  "gateResetTitle": "Reset Adventure Progress",
+  "gateResetDescription": "This is a protected action. Confirm you’re a grown-up to continue.",
+  "gateExtraTimeTitle": "Add More Play Time",
+  "gateExtraTimeDescription": "Confirm you’re a grown-up before adding 15 more minutes.",
+  "addFifteenMinutes": "Add 15 Minutes",
+  "badgeCategory": "{key, select, ALL{ALL} SPEED{SPEED} ACCURACY{ACCURACY} STREAK{STREAK} MILESTONE{MILESTONE} MASTERY{MASTERY} ADVENTURE{ADVENTURE} DAILY{DAILY} LEGENDARY{LEGENDARY} other{{fallback}}}",
+  "badgeTier": "{key, select, bronze{BRONZE} silver{SILVER} gold{GOLD} diamond{DIAMOND} other{{key}}}",
+  "masteryTierTitle": "{level, select, l1{Sprout Explorer} l2{Number Cadet} l3{Math Adventurer} l4{Rising Star} l5{Number Wizard} l6{Math Superhero} l7{Cosmic Champion} l8{Mastermind} l9{Grand Titan} l10{Supreme Math Legend!} other{}}",
+  "gateNumberWord": "{value, select, n0{zero} n1{one} n2{two} n3{three} n4{four} n5{five} n6{six} n7{seven} n8{eight} n9{nine} n10{ten} other{}}",
+  "weekdayShort": "{day, select, d0{Mon} d1{Tue} d2{Wed} d3{Thu} d4{Fri} d5{Sat} d6{Sun} other{}}",
+  "@badgeCategory": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      },
+      "fallback": {
+        "type": "String"
+      }
+    }
+  },
+  "@badgeTier": {
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "@masteryTierTitle": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "@gateNumberWord": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "@weekdayShort": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "solvedToday": "+{count} today",
+  "practiceAccuracy": "Across practiced operations",
+  "explorerLabel": "Explorer",
+  "observationNeedsPractice": "Complete a practice session to discover strengths.",
+  "observationBuilding": "Skills are still developing. Keep practicing to build accuracy.",
+  "observationStrength": "{operation}: {percent}% accuracy across {count} answered questions.",
+  "observationStart": "Try a short practice session to begin the assessment.",
+  "observationMaintain": "Keep practicing all operations to maintain accuracy.",
+  "observationTry": "Try {operation} to gather assessment data.",
+  "observationFocus": "Practice {operation}, currently at {percent}% accuracy.",
+  "@solvedToday": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@stellaExcellent": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@observationStrength": {
+    "placeholders": {
+      "operation": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "int"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@observationTry": {
+    "placeholders": {
+      "operation": {
+        "type": "String"
+      }
+    }
+  },
+  "@observationFocus": {
+    "placeholders": {
+      "operation": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "appTagline": "A little practice. A big adventure.",
+  "aboutSectionTitle": "ABOUT",
+  "aboutAppTitle": "About MathQuest",
+  "aboutAppSubtitle": "A small idea, inspired by Dion",
+  "aboutAppStory": "I created MathQuest to help my son Dion study math. We don’t always have a pencil and paper at hand, so I wanted a simple way to turn any spare moment into a chance to learn together.",
+  "aboutPracticeTitle": "Practice anywhere",
+  "aboutPracticeBody": "A few minutes of math, wherever the day takes you.",
+  "aboutPaceTitle": "At their own pace",
+  "aboutPaceBody": "Different grades and activities make room for every little explorer.",
+  "aboutFamilyTitle": "Made for learning together",
+  "aboutFamilyBody": "A project born at home, to make math part of everyday life.",
+  "aboutDeveloperTitle": "About the developer",
+  "aboutDeveloperSubtitle": "The person behind MathQuest",
+  "aboutDeveloperBio": "Hi, I’m @christhoval, a full-stack engineer and Front-End Tech Lead based in Panama. I work with JavaScript and Python, and build CLI tools, npm packages, and mobile apps. I care about useful products, thoughtful UX, and privacy by design. MathQuest grew out of a simple wish: to help Dion enjoy learning math.",
+  "developerRoleTitle": "Current role",
+  "developerRoleBody": "Full-stack engineer & Front-End Tech Lead.",
+  "developerStackTitle": "Main stack",
+  "developerStackBody": "JavaScript, TypeScript, Python, Flutter, CLI, and npm.",
+  "developerFocusTitle": "My focus",
+  "developerFocusBody": "Product, user experience, and privacy by design.",
+  "contactSupportTitle": "Contact / Support",
+  "contactSupportSubtitle": "Report a bug or share an idea",
+  "supportEmailSubject": "MathQuest — Support",
+  "supportEmailBody": "Hello Christhoval,\n\nI’m contacting you about MathQuest:\n\n",
+  "supportEmailUnavailable": "No email app is available. You can write to me at the address below.",
+  "copyEmail": "Copy email address",
+  "emailCopied": "Email address copied"
+}
