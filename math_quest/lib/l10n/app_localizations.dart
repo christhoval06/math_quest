@@ -2589,6 +2589,558 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Email address copied'**
   String get emailCopied;
+
+  /// No description provided for @landingPageTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'MathQuest · Little steps. Cosmic confidence.'**
+  String get landingPageTitle;
+
+  /// No description provided for @landingNavLearning.
+  ///
+  /// In en, this message translates to:
+  /// **'How they learn'**
+  String get landingNavLearning;
+
+  /// No description provided for @landingNavModes.
+  ///
+  /// In en, this message translates to:
+  /// **'Ways to play'**
+  String get landingNavModes;
+
+  /// No description provided for @landingNavParents.
+  ///
+  /// In en, this message translates to:
+  /// **'For parents'**
+  String get landingNavParents;
+
+  /// No description provided for @landingNavGallery.
+  ///
+  /// In en, this message translates to:
+  /// **'Inside the app'**
+  String get landingNavGallery;
+
+  /// No description provided for @landingLanguageLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Language'**
+  String get landingLanguageLabel;
+
+  /// No description provided for @landingStartAction.
+  ///
+  /// In en, this message translates to:
+  /// **'Download on the App Store'**
+  String get landingStartAction;
+
+  /// No description provided for @landingExploreAction.
+  ///
+  /// In en, this message translates to:
+  /// **'Explore game modes'**
+  String get landingExploreAction;
+
+  /// No description provided for @landingHeroEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'SMALL STEPS. BIG DISCOVERIES.'**
+  String get landingHeroEyebrow;
+
+  /// No description provided for @landingHeroLead.
+  ///
+  /// In en, this message translates to:
+  /// **'Turn math into a'**
+  String get landingHeroLead;
+
+  /// No description provided for @landingHeroAccent.
+  ///
+  /// In en, this message translates to:
+  /// **'cosmic adventure.'**
+  String get landingHeroAccent;
+
+  /// No description provided for @landingHeroDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'A little practice. A lot of “I did it!” Help your child build real confidence with visual math, playful challenges, and a universe of small wins.'**
+  String get landingHeroDescription;
+
+  /// No description provided for @landingProofOffline.
+  ///
+  /// In en, this message translates to:
+  /// **'Offline-ready'**
+  String get landingProofOffline;
+
+  /// No description provided for @landingProofAds.
+  ///
+  /// In en, this message translates to:
+  /// **'No ads. Just discovery.'**
+  String get landingProofAds;
+
+  /// No description provided for @landingProofProfiles.
+  ///
+  /// In en, this message translates to:
+  /// **'Room for every little hero'**
+  String get landingProofProfiles;
+
+  /// No description provided for @landingDailyBadge.
+  ///
+  /// In en, this message translates to:
+  /// **'A little win, every day'**
+  String get landingDailyBadge;
+
+  /// No description provided for @landingDailyBadgeDetail.
+  ///
+  /// In en, this message translates to:
+  /// **'Their next adventure is waiting.'**
+  String get landingDailyBadgeDetail;
+
+  /// No description provided for @landingStatOperations.
+  ///
+  /// In en, this message translates to:
+  /// **'Essential operations'**
+  String get landingStatOperations;
+
+  /// No description provided for @landingStatDifficulty.
+  ///
+  /// In en, this message translates to:
+  /// **'Levels to grow with them'**
+  String get landingStatDifficulty;
+
+  /// No description provided for @landingStatWorlds.
+  ///
+  /// In en, this message translates to:
+  /// **'Worlds to explore'**
+  String get landingStatWorlds;
+
+  /// No description provided for @landingStatAds.
+  ///
+  /// In en, this message translates to:
+  /// **'Ads in their way'**
+  String get landingStatAds;
+
+  /// No description provided for @landingLearningEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'UNDERSTANDING BEFORE MEMORIZING'**
+  String get landingLearningEyebrow;
+
+  /// No description provided for @landingLearningTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Math is easier when\nthey can see it.'**
+  String get landingLearningTitle;
+
+  /// No description provided for @landingLearningIntro.
+  ///
+  /// In en, this message translates to:
+  /// **'From “what does this mean?” to “I know how!” Make abstract ideas click with friendly, visual helpers.'**
+  String get landingLearningIntro;
+
+  /// No description provided for @landingBlocksTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Big ideas. Little blocks.'**
+  String get landingBlocksTitle;
+
+  /// No description provided for @landingBlocksBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Tens-rods and ones-dots make place value, carrying, and counting feel wonderfully concrete.'**
+  String get landingBlocksBody;
+
+  /// No description provided for @landingEncouragementTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'A safe space to try again'**
+  String get landingEncouragementTitle;
+
+  /// No description provided for @landingEncouragementBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Helpful hints and gentle encouragement keep curiosity going, even when an answer takes another try.'**
+  String get landingEncouragementBody;
+
+  /// No description provided for @landingPaceTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Their pace. Their lightbulb moment.'**
+  String get landingPaceTitle;
+
+  /// No description provided for @landingPaceBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Start with visual support, then build toward independent problem solving, one small step at a time.'**
+  String get landingPaceBody;
+
+  /// No description provided for @landingModesEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'SERIOUS LEARNING. PLAYFUL POSSIBILITIES.'**
+  String get landingModesEyebrow;
+
+  /// No description provided for @landingModesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Different moods.\nA whole universe of ways to play.'**
+  String get landingModesTitle;
+
+  /// No description provided for @landingModesIntro.
+  ///
+  /// In en, this message translates to:
+  /// **'A quiet practice session or a friendly face-off? There’s a little adventure for every kind of learner.'**
+  String get landingModesIntro;
+
+  /// No description provided for @landingPracticeTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Practice Arena'**
+  String get landingPracticeTitle;
+
+  /// No description provided for @landingPracticeBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Take a breath, try a strategy, and let the visual helpers guide the way.'**
+  String get landingPracticeBody;
+
+  /// No description provided for @landingPracticeTag.
+  ///
+  /// In en, this message translates to:
+  /// **'NO RUSH. JUST PROGRESS.'**
+  String get landingPracticeTag;
+
+  /// No description provided for @landingDuelTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'2-Player Duel'**
+  String get landingDuelTitle;
+
+  /// No description provided for @landingDuelBody.
+  ///
+  /// In en, this message translates to:
+  /// **'One screen. Two explorers. Turn practice into a friendly challenge together.'**
+  String get landingDuelBody;
+
+  /// No description provided for @landingDuelTag.
+  ///
+  /// In en, this message translates to:
+  /// **'BETTER TOGETHER'**
+  String get landingDuelTag;
+
+  /// No description provided for @landingMissionTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Custom Missions'**
+  String get landingMissionTitle;
+
+  /// No description provided for @landingMissionBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose the operation, difficulty, and timer. Make a mission that fits today.'**
+  String get landingMissionBody;
+
+  /// No description provided for @landingMissionTag.
+  ///
+  /// In en, this message translates to:
+  /// **'THEIR VERY OWN QUEST'**
+  String get landingMissionTag;
+
+  /// No description provided for @landingWorldTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Adventure Island'**
+  String get landingWorldTitle;
+
+  /// No description provided for @landingWorldBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Follow a path of little challenges and discover what’s around the next corner.'**
+  String get landingWorldBody;
+
+  /// No description provided for @landingWorldTag.
+  ///
+  /// In en, this message translates to:
+  /// **'KEEP EXPLORING'**
+  String get landingWorldTag;
+
+  /// No description provided for @landingRewardsEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'A LITTLE EFFORT DESERVES A BIG HIGH-FIVE'**
+  String get landingRewardsEyebrow;
+
+  /// No description provided for @landingRewardsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Celebrate grit.\nGrow their glow.'**
+  String get landingRewardsTitle;
+
+  /// No description provided for @landingRewardsIntro.
+  ///
+  /// In en, this message translates to:
+  /// **'Every small win is a reason to come back. MathQuest makes progress something they can see, collect, and feel proud of.'**
+  String get landingRewardsIntro;
+
+  /// No description provided for @landingCoinsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Star Coins'**
+  String get landingCoinsTitle;
+
+  /// No description provided for @landingCoinsBody.
+  ///
+  /// In en, this message translates to:
+  /// **'A little sparkle for their effort.'**
+  String get landingCoinsBody;
+
+  /// No description provided for @landingStreakTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Daily streaks'**
+  String get landingStreakTitle;
+
+  /// No description provided for @landingStreakBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Build a habit, one happy day at a time.'**
+  String get landingStreakBody;
+
+  /// No description provided for @landingBadgesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Trophies to treasure'**
+  String get landingBadgesTitle;
+
+  /// No description provided for @landingBadgesBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Milestones that make them say “look!”'**
+  String get landingBadgesBody;
+
+  /// No description provided for @landingWorldsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'New worlds'**
+  String get landingWorldsTitle;
+
+  /// No description provided for @landingWorldsBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Fresh places for curious minds.'**
+  String get landingWorldsBody;
+
+  /// No description provided for @landingParentEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'FOR THEIR GROWN-UPS'**
+  String get landingParentEyebrow;
+
+  /// No description provided for @landingParentTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Less guesswork.\nMore “look how far you’ve come.”'**
+  String get landingParentTitle;
+
+  /// No description provided for @landingParentIntro.
+  ///
+  /// In en, this message translates to:
+  /// **'Stay close to their learning without hovering over every answer. Clear reports help you see their next small step.'**
+  String get landingParentIntro;
+
+  /// No description provided for @landingReportTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Progress you can understand'**
+  String get landingReportTitle;
+
+  /// No description provided for @landingReportBody.
+  ///
+  /// In en, this message translates to:
+  /// **'See accuracy, practice activity, and the skills that could use a little extra love.'**
+  String get landingReportBody;
+
+  /// No description provided for @landingProfilesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'A space for each child'**
+  String get landingProfilesTitle;
+
+  /// No description provided for @landingProfilesBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Separate profiles keep every explorer’s progress their own.'**
+  String get landingProfilesBody;
+
+  /// No description provided for @landingControlsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Healthy boundaries, built in'**
+  String get landingControlsTitle;
+
+  /// No description provided for @landingControlsBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Set screen-time limits and keep grown-up settings behind a parent gate.'**
+  String get landingControlsBody;
+
+  /// No description provided for @landingGalleryEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'MADE FOR LITTLE HANDS'**
+  String get landingGalleryEyebrow;
+
+  /// No description provided for @landingGalleryTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Take a peek at their next adventure.'**
+  String get landingGalleryTitle;
+
+  /// No description provided for @landingGalleryPrevious.
+  ///
+  /// In en, this message translates to:
+  /// **'Previous screenshots'**
+  String get landingGalleryPrevious;
+
+  /// No description provided for @landingGalleryNext.
+  ///
+  /// In en, this message translates to:
+  /// **'Next screenshots'**
+  String get landingGalleryNext;
+
+  /// No description provided for @landingScreenWelcome.
+  ///
+  /// In en, this message translates to:
+  /// **'A warm welcome'**
+  String get landingScreenWelcome;
+
+  /// No description provided for @landingScreenProfile.
+  ///
+  /// In en, this message translates to:
+  /// **'Create their hero'**
+  String get landingScreenProfile;
+
+  /// No description provided for @landingScreenDaily.
+  ///
+  /// In en, this message translates to:
+  /// **'Little daily quests'**
+  String get landingScreenDaily;
+
+  /// No description provided for @landingScreenBlocks.
+  ///
+  /// In en, this message translates to:
+  /// **'See the math'**
+  String get landingScreenBlocks;
+
+  /// No description provided for @landingScreenDuel.
+  ///
+  /// In en, this message translates to:
+  /// **'Share the challenge'**
+  String get landingScreenDuel;
+
+  /// No description provided for @landingScreenTrophies.
+  ///
+  /// In en, this message translates to:
+  /// **'Celebrate every step'**
+  String get landingScreenTrophies;
+
+  /// No description provided for @landingScreenReport.
+  ///
+  /// In en, this message translates to:
+  /// **'Understand their progress'**
+  String get landingScreenReport;
+
+  /// No description provided for @landingScreenSettings.
+  ///
+  /// In en, this message translates to:
+  /// **'Make it feel like theirs'**
+  String get landingScreenSettings;
+
+  /// No description provided for @landingDownloadEyebrow.
+  ///
+  /// In en, this message translates to:
+  /// **'THE NEXT “I DID IT!” STARTS HERE'**
+  String get landingDownloadEyebrow;
+
+  /// No description provided for @landingDownloadTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Small steps today.\nMath superpowers tomorrow.'**
+  String get landingDownloadTitle;
+
+  /// No description provided for @landingDownloadBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Give their curiosity a place to play. Get MathQuest on the App Store and start your family’s next adventure.'**
+  String get landingDownloadBody;
+
+  /// No description provided for @landingEmailFailure.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not open your email app. Write to me@christhoval.dev.'**
+  String get landingEmailFailure;
+
+  /// No description provided for @landingEmailSubject.
+  ///
+  /// In en, this message translates to:
+  /// **'MathQuest support'**
+  String get landingEmailSubject;
+
+  /// No description provided for @landingEmailBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Hello! I need help with MathQuest.'**
+  String get landingEmailBody;
+
+  /// No description provided for @landingFooterLine.
+  ///
+  /// In en, this message translates to:
+  /// **'A little practice. A lifetime of possibility.'**
+  String get landingFooterLine;
+
+  /// No description provided for @landingFooterCredit.
+  ///
+  /// In en, this message translates to:
+  /// **'Made with care for curious minds.'**
+  String get landingFooterCredit;
+
+  /// No description provided for @landingBackToTop.
+  ///
+  /// In en, this message translates to:
+  /// **'Back to top'**
+  String get landingBackToTop;
+
+  /// No description provided for @landingCloseMenu.
+  ///
+  /// In en, this message translates to:
+  /// **'Close navigation'**
+  String get landingCloseMenu;
+
+  /// No description provided for @landingOpenMenu.
+  ///
+  /// In en, this message translates to:
+  /// **'Open navigation'**
+  String get landingOpenMenu;
+
+  /// No description provided for @landingContactLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Contact & support'**
+  String get landingContactLabel;
+
+  /// No description provided for @landingDownloadAction.
+  ///
+  /// In en, this message translates to:
+  /// **'Download on the App Store'**
+  String get landingDownloadAction;
+
+  /// No description provided for @landingDownloadNote.
+  ///
+  /// In en, this message translates to:
+  /// **'Available on the App Store.'**
+  String get landingDownloadNote;
+
+  /// No description provided for @landingDownloadFailure.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not open the App Store. Please try again.'**
+  String get landingDownloadFailure;
 }
 
 class _AppLocalizationsDelegate

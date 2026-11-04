@@ -1,3 +1,5 @@
+import 'package:flutter/foundation.dart';
+import 'package:math_quest/features/landing/landing_app.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -12,6 +14,13 @@ import 'package:math_quest/l10n/app_localizations.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  // Marketing website uses the same feature code and localization, without
+  // opening the gameplay database or initializing mobile services.
+  if (kIsWeb) {
+    runApp(const LandingApp());
+    return;
+  }
 
   // Initialize Hive offline database
   await DatabaseBootstrapper.initialize();

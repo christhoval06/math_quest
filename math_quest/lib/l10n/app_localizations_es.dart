@@ -1737,4 +1737,305 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get emailCopied => 'Correo electrónico copiado';
+
+  @override
+  String get landingPageTitle =>
+      'MathQuest · Pequeños pasos. Confianza cósmica.';
+
+  @override
+  String get landingNavLearning => 'Cómo aprende';
+
+  @override
+  String get landingNavModes => 'Formas de jugar';
+
+  @override
+  String get landingNavParents => 'Para familias';
+
+  @override
+  String get landingNavGallery => 'Dentro de la app';
+
+  @override
+  String get landingLanguageLabel => 'Idioma';
+
+  @override
+  String get landingStartAction => 'Descárgalo en App Store';
+
+  @override
+  String get landingExploreAction => 'Explora los modos';
+
+  @override
+  String get landingHeroEyebrow => 'PEQUEÑOS PASOS. GRANDES DESCUBRIMIENTOS.';
+
+  @override
+  String get landingHeroLead => 'Convierte las matemáticas en una';
+
+  @override
+  String get landingHeroAccent => 'aventura cósmica.';
+
+  @override
+  String get landingHeroDescription =>
+      'Un poco de práctica. ¡Muchos “lo logré”! Ayuda a tu peque a ganar confianza con matemáticas visuales, retos divertidos y un universo de pequeños logros.';
+
+  @override
+  String get landingProofOffline => 'Funciona sin conexión';
+
+  @override
+  String get landingProofAds => 'Sin anuncios. Solo descubrimientos.';
+
+  @override
+  String get landingProofProfiles => 'Un espacio para cada peque';
+
+  @override
+  String get landingDailyBadge => 'Un pequeño logro cada día';
+
+  @override
+  String get landingDailyBadgeDetail => 'Su próxima aventura les espera.';
+
+  @override
+  String get landingStatOperations => 'Operaciones esenciales';
+
+  @override
+  String get landingStatDifficulty => 'Niveles para crecer';
+
+  @override
+  String get landingStatWorlds => 'Mundos por explorar';
+
+  @override
+  String get landingStatAds => 'Anuncios en su camino';
+
+  @override
+  String get landingLearningEyebrow => 'COMPRENDER ANTES DE MEMORIZAR';
+
+  @override
+  String get landingLearningTitle =>
+      'Las matemáticas son más fáciles\ncuando se pueden ver.';
+
+  @override
+  String get landingLearningIntro =>
+      'Del “¿qué significa?” al “¡ya sé cómo!”. Las ayudas visuales convierten ideas abstractas en descubrimientos.';
+
+  @override
+  String get landingBlocksTitle => 'Grandes ideas. Pequeños bloques.';
+
+  @override
+  String get landingBlocksBody =>
+      'Las barras de decenas y puntos de unidades ayudan a comprender el valor posicional, las llevadas y el conteo.';
+
+  @override
+  String get landingEncouragementTitle => 'Un espacio seguro para reintentar';
+
+  @override
+  String get landingEncouragementBody =>
+      'Las pistas y el ánimo mantienen viva la curiosidad, incluso cuando hace falta intentarlo otra vez.';
+
+  @override
+  String get landingPaceTitle => 'A su ritmo. Con sus descubrimientos.';
+
+  @override
+  String get landingPaceBody =>
+      'Empieza con apoyo visual y avanza hacia la resolución independiente, paso a paso.';
+
+  @override
+  String get landingModesEyebrow => 'APRENDIZAJE REAL. DIVERSIÓN SIN LÍMITES.';
+
+  @override
+  String get landingModesTitle =>
+      'Distintos momentos.\nUn universo de formas de jugar.';
+
+  @override
+  String get landingModesIntro =>
+      '¿Una práctica tranquila o un duelo amistoso? Hay una aventura para cada forma de aprender.';
+
+  @override
+  String get landingPracticeTitle => 'Arena de práctica';
+
+  @override
+  String get landingPracticeBody =>
+      'Respira, prueba una estrategia y deja que las ayudas visuales te guíen.';
+
+  @override
+  String get landingPracticeTag => 'SIN PRISA. CON PROGRESO.';
+
+  @override
+  String get landingDuelTitle => 'Duelo para dos';
+
+  @override
+  String get landingDuelBody =>
+      'Una pantalla. Dos exploradores. Practiquen juntos con un reto amistoso.';
+
+  @override
+  String get landingDuelTag => 'MEJOR EN COMPAÑÍA';
+
+  @override
+  String get landingMissionTitle => 'Misiones a medida';
+
+  @override
+  String get landingMissionBody =>
+      'Elige la operación, la dificultad y el tiempo. Crea la misión ideal para hoy.';
+
+  @override
+  String get landingMissionTag => 'SU PROPIA AVENTURA';
+
+  @override
+  String get landingWorldTitle => 'Isla de aventuras';
+
+  @override
+  String get landingWorldBody =>
+      'Sigue un camino de pequeños retos y descubre qué hay en la siguiente parada.';
+
+  @override
+  String get landingWorldTag => 'SIGUE EXPLORANDO';
+
+  @override
+  String get landingRewardsEyebrow => 'CADA ESFUERZO MERECE CELEBRARSE';
+
+  @override
+  String get landingRewardsTitle =>
+      'Celebra su esfuerzo.\nHaz brillar su confianza.';
+
+  @override
+  String get landingRewardsIntro =>
+      'Cada pequeño logro invita a volver. En MathQuest, el progreso se puede ver, coleccionar y celebrar.';
+
+  @override
+  String get landingCoinsTitle => 'Monedas estelares';
+
+  @override
+  String get landingCoinsBody => 'Un poco de brillo por su esfuerzo.';
+
+  @override
+  String get landingStreakTitle => 'Rachas diarias';
+
+  @override
+  String get landingStreakBody => 'Un hábito, un día feliz a la vez.';
+
+  @override
+  String get landingBadgesTitle => 'Trofeos para recordar';
+
+  @override
+  String get landingBadgesBody => 'Logros que dan ganas de compartir.';
+
+  @override
+  String get landingWorldsTitle => 'Nuevos mundos';
+
+  @override
+  String get landingWorldsBody => 'Nuevos lugares para mentes curiosas.';
+
+  @override
+  String get landingParentEyebrow => 'PARA QUIENES LES ACOMPAÑAN';
+
+  @override
+  String get landingParentTitle =>
+      'Menos dudas.\nMás “mira cuánto has avanzado”.';
+
+  @override
+  String get landingParentIntro =>
+      'Acompaña su aprendizaje sin vigilar cada respuesta. Los informes claros te ayudan a ver su próximo paso.';
+
+  @override
+  String get landingReportTitle => 'Progreso que puedes entender';
+
+  @override
+  String get landingReportBody =>
+      'Consulta la precisión, la actividad y las habilidades que necesitan un poco más de atención.';
+
+  @override
+  String get landingProfilesTitle => 'Un espacio para cada peque';
+
+  @override
+  String get landingProfilesBody =>
+      'Los perfiles separados conservan el progreso de cada explorador.';
+
+  @override
+  String get landingControlsTitle => 'Límites saludables integrados';
+
+  @override
+  String get landingControlsBody =>
+      'Configura límites de tiempo y protege los ajustes con un control parental.';
+
+  @override
+  String get landingGalleryEyebrow => 'PARA SUS PEQUEÑAS MANOS';
+
+  @override
+  String get landingGalleryTitle => 'Descubre su próxima aventura.';
+
+  @override
+  String get landingGalleryPrevious => 'Capturas anteriores';
+
+  @override
+  String get landingGalleryNext => 'Siguientes capturas';
+
+  @override
+  String get landingScreenWelcome => 'Una cálida bienvenida';
+
+  @override
+  String get landingScreenProfile => 'Crea su héroe';
+
+  @override
+  String get landingScreenDaily => 'Pequeñas misiones diarias';
+
+  @override
+  String get landingScreenBlocks => 'Mira las matemáticas';
+
+  @override
+  String get landingScreenDuel => 'Comparte el reto';
+
+  @override
+  String get landingScreenTrophies => 'Celebra cada paso';
+
+  @override
+  String get landingScreenReport => 'Comprende su progreso';
+
+  @override
+  String get landingScreenSettings => 'Haz que sea su mundo';
+
+  @override
+  String get landingDownloadEyebrow => 'SU PRÓXIMO “¡LO LOGRÉ!” EMPIEZA AQUÍ';
+
+  @override
+  String get landingDownloadTitle =>
+      'Pequeños pasos hoy.\nSuperpoderes matemáticos mañana.';
+
+  @override
+  String get landingDownloadBody =>
+      'Dale a su curiosidad un lugar para jugar. Descarga MathQuest en App Store y comienza la próxima aventura de tu familia.';
+
+  @override
+  String get landingEmailFailure =>
+      'No se pudo abrir tu correo. Escríbenos a me@christhoval.dev.';
+
+  @override
+  String get landingEmailSubject => 'Soporte de MathQuest';
+
+  @override
+  String get landingEmailBody => '¡Hola! Necesito ayuda con MathQuest.';
+
+  @override
+  String get landingFooterLine =>
+      'Un poco de práctica. Un mundo de posibilidades.';
+
+  @override
+  String get landingFooterCredit => 'Creado con cariño para mentes curiosas.';
+
+  @override
+  String get landingBackToTop => 'Volver al inicio';
+
+  @override
+  String get landingCloseMenu => 'Cerrar navegación';
+
+  @override
+  String get landingOpenMenu => 'Abrir navegación';
+
+  @override
+  String get landingContactLabel => 'Contacto y soporte';
+
+  @override
+  String get landingDownloadAction => 'Descárgalo en App Store';
+
+  @override
+  String get landingDownloadNote => 'Disponible en App Store.';
+
+  @override
+  String get landingDownloadFailure =>
+      'No se pudo abrir App Store. Inténtalo de nuevo.';
 }

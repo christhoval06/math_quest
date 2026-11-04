@@ -89,6 +89,8 @@ flutter:
   assets:
       - assets/audio/sfx/
       - assets/images/branding/
+      - assets/screens/
+      - assets/fonts/plus_jakarta_sans/PlusJakartaSans-OFL.txt
       - assets/fonts/nunito/OFL.txt
 
   # To add assets to your application, add an assets section, like this:
@@ -103,6 +105,9 @@ flutter:
   # https://flutter.dev/to/asset-from-package
 
   fonts:
+    - family: Plus Jakarta Sans
+      fonts:
+        - asset: assets/fonts/plus_jakarta_sans/PlusJakartaSans-Variable.ttf
     - family: Nunito
       fonts:
         - asset: assets/fonts/nunito/Nunito-Regular.ttf

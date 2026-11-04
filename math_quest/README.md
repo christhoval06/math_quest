@@ -13,6 +13,10 @@ I created MathQuest to help my son Dion study math. We don’t always have a pen
 - **Personalization:** visual themes, sound and music controls, read-aloud preferences, haptics, and response modes.
 - **Settings:** app branding and installed version, the story behind MathQuest, a developer bio, and email support.
 
+## Website
+
+The web target opens the promotional landing page from `lib/features/landing`, using the shared localization and assets. Run `flutter run -d chrome` to preview it, or `flutter build web --release` to generate `build/web/`. Native targets keep the game startup. See [web setup](web/README.md) for details.
+
 ## Languages
 
 Choose English, Spanish, or Portuguese in Settings. The Spanish navigation label is **Ajustes**.

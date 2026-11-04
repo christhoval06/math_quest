@@ -1,0 +1,19 @@
+[build]
+  publish = "build/web"
+  command = '''
+set -eu
+if [ ! -x _flutter/bin/flutter ]; then
+  if [ -e _flutter ]; then
+    echo "Cached _flutter directory is incomplete. Clear the Netlify build cache and retry." >&2
+    exit 1
+  fi
+  git clone https://github.com/flutter/flutter.git -b stable --depth 1 _flutter
+fi
+export PATH="$PWD/_flutter/bin:$PATH"
+flutter build web --release
+'''
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
