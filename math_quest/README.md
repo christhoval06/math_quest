@@ -63,6 +63,8 @@ The latest verification on November 4, 2026 passed all **439 tests** and the iOS
 
 ## Storage and assets
 
+See the [Privacy Policy](docs/privacy-policy.md) for details about local data, children's privacy, support emails, and data removal.
+
 Profiles, progress, and preferences use local Hive storage. Existing saved profiles remain intact when the app starts; startup no longer creates the demo Leo profile.
 
 Nunito fonts, branding images, and sound effects are bundled with the app. The app loads its fonts from assets without runtime downloads. Font sources, checksums, and the SIL Open Font License are documented in the [Nunito assets directory](assets/fonts/nunito/README.md).
